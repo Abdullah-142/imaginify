@@ -27,7 +27,6 @@ _🔍 What's It About?_
 **🌐 How It Works:**
 
 - Imaginify empowers you to unlock the full potential of your imagery through the power of cutting-edge Artificial Intelligence. Our user-friendly platform provides a comprehensive suite of tools designed to streamline your workflow and elevate your creative vision.
-
 ```
 NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
 CLERK_SECRET_KEY=
@@ -48,8 +47,10 @@ STRIPE_SECRET_KEY=
 
 STRIPE_WEBHOOK_SECRET=
 
-NEXT_PUBLIC_SERVER_URL=localhost:3000``
+NEXT_PUBLIC_SERVER_URL=localhost:3000
+```
 
-
-```npm install 
-npm run dev```
+```
+npm install 
+npm run dev
+```
