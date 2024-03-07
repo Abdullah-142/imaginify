@@ -51,7 +51,5 @@ STRIPE_WEBHOOK_SECRET=
 NEXT_PUBLIC_SERVER_URL=localhost:3000``
 
 
-```
-npm install 
-npm run dev
-```
+```npm install 
+npm run dev```
