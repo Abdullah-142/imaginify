@@ -31,7 +31,7 @@ const Checkout = ({
     if (query.get("success")) {
       toast({
         title: "Order placed!",
-        description: "You will receive an email confirmation",
+        description: "You will receive an email confirmation shortly.",
         duration: 5000,
         className: "success-toast",
       });
