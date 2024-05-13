@@ -44,7 +44,7 @@ const MobileNav = () => {
                   <SheetContent className="sheet-content sm:w-64 max-w-56">
                      <div className="flex h-[calc(100vh-72px)] flex-col justify-between overflow-y-auto">
                         <SheetClose asChild>
-                           <section className=" flex h-full flex-col gap-6 pt-16 text-white">
+                           <section className=" flex h-full flex-col gap-6 pt-3 text-white">
                               <Image
                                  src="/assets/images/logo-text.svg"
                                  alt="logo"
